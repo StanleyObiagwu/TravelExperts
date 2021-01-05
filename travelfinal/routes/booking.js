@@ -1,4 +1,4 @@
-//booking route created by Akachi
+
 var express = require("express");
 var router = express.Router();
 const data = require("../models/mongoose_data");
