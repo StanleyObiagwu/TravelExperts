@@ -1,5 +1,5 @@
 const mongoose = require("../mongoose_connect");
-// Creating the User Schema by Akachi 
+
 const UserSchema = new mongoose.Schema({
   username: {
     type: String,
