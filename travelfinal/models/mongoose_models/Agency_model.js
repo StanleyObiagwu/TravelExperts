@@ -1,5 +1,5 @@
 const mongoose = require('../mongoose_connect');
-// Creating the Agency Schema by Stanley
+
 const AgencySchema = new mongoose.Schema({
     AgencyId: {
         type: Number,
