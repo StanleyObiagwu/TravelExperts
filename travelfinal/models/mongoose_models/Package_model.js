@@ -1,5 +1,5 @@
 const mongoose = require("../mongoose_connect");
-// Creating the Package Schema by Stanley
+
 const PackageSchema = new mongoose.Schema({
   PackageId: {
     type: Number,
