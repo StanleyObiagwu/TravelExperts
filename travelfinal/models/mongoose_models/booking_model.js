@@ -1,5 +1,5 @@
 const mongoose = require("../mongoose_connect");
-// Creating the Booking Schema By Edwin
+
 const BookingSchema = new mongoose.Schema({
   BookingDate: {
     type: Date,
