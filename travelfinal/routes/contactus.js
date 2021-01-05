@@ -1,4 +1,4 @@
-//Contactus route created by Stanley
+
 var express = require("express");
 var router = express.Router();
 //const data = require('../models/mysql_data'); // MySQL (alternative database)
